@@ -1,0 +1,3 @@
+# Poliomorphisme
+
+Polimorfisme adalah konsep yang memungkinkan suatu objek memiliki banyak bentuk atau perilaku. Dalam konteks PBO, Polimorfisme memungkinkan kelas-kelas turunan untuk memiliki metode dengan nama yang sama tetapi berperilaku berbeda

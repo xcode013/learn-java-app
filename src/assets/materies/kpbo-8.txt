@@ -1,0 +1,14 @@
+# Encapsulization
+
+Pembungkusan adalah konsep menggabungkan data dan metode yang beroprasi pada data tersebut kedalam satu entitas tunggal yaitu kelas. Dengan menggunakan pembungkusan, kita dapat mengontrol akses terhadap data dan method dalam kelas sehingga memungkinkan implementasi yang lebih tersetruktur dan aman.
+
+Hak akses dalam Encapsulization Java adalah sebagai berikut :
+
+## Private
+Jika  sebuah property atau method di-set sebagai private, maka satu-satunya yang bisa mengakses hanyalah class itu sendiri. Class lain tidak bisa mengaksesnya, termasuk class turunan.
+
+## Protected
+Jika sebuah property atau method dinyatakan sebagai protected, berarti property atau method tersebut tidak bisa diakses dari luar class, namun bisa diakses oleh class itu sendiri atau turunan class tersebut. Apabila kita mencoba mengakses protected property atau protected method dari luar class, akan menghasilkan error. 
+
+## Public
+Ketika sebuah property atau method dinyatakan sebagai public, maka seluruh kode program di luar class bisa mengaksesnya, termasuk class turunan.

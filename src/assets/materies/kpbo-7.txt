@@ -1,0 +1,3 @@
+# Abstract
+
+Abstraksi adalah proses menyembunyikan detail internal suatu objek dan hanya mengekspos fitur- fitur penting yang relefan. Dalam PBO, kita menciptakan kelas sebagai representasi abstrak dari objek tertentu. Sebagai contoh, kita dapat membuat kelas “mobil” yang hanya mengekspos  method seperti “maju”,”mundur”,”belok” tanpa perlu memgetahui detail bagaimana mesin mobil bekerja didalamnya.

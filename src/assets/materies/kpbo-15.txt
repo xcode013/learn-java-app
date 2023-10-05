@@ -1,0 +1,10 @@
+# Variabel
+
+## Mean of Variabel
+Secara umun, Variable pada pemograman dapat diibaratkan sebagai sebuah wadah/tempat untuk menyimpan suatu nilai tertentu. Dalam bahasa pemograman Java. Masing-masing variable memiliki tipe data tertentu sehingga jika tipe nilai variablenya tidak sesuai dengan tipe data pada variablenya. Maka akan terjadi error. 
+
+## Declare Variabel
+Deklarasi Variable berarti memerintahkan java untuk mengalokasikan ruang memori kosong untuk menampung nilai yang akan di isikan kedalam variable sesuai dengan tipe data yang telah ditetapkan. 
+
+## Initialitation Variabel
+Inisialisasi adalah proses pemberian nilai pada variable yang telah dibuat. Dimana tipe data nilai yang di isikan harus sesuai dengan tipe data yang telah dideklarasikan pada variable. 

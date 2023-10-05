@@ -1,0 +1,132 @@
+[
+  {
+    "key": "program_in_java",
+    "prev": "/",
+    "next": "/learning/introduction/prosedural_programing_vs_oop"
+  },
+  {
+    "key": "prosedural_programing_vs_oop",
+    "prev": "/learning/introduction/program_in_java",
+    "next": "/learning/introduction/instalasi_jdk_ide"
+  },
+  {
+    "key": "instalasi_jdk_ide",
+    "prev": "/learning/introduction/prosedural_programing_vs_oop",
+    "next": "/learning/introduction/setup_setting_classpath"
+  },
+  {
+    "key": "setup_setting_classpath",
+    "prev": "/learning/introduction/instalasi_jdk_ide",
+    "next": "/learning/introduction/hello_world"
+  },
+  {
+    "key": "hello_world",
+    "prev": "/learning/introduction/setup_setting_classpath",
+    "next": "/learning/introduction/basic_syntax"
+  },
+  {
+    "key": "basic_syntax",
+    "prev": "/learning/introduction/hello_world",
+    "next": "/learning/introduction/oop_concept/abstract"
+  },
+  {
+    "key": "abstract",
+    "prev": "/learning/introduction/basic_syntax",
+    "next": "/learning/introduction/oop_concept/encapsulization"
+  },
+  {
+    "key": "encapsulization",
+    "prev": "/learning/introduction/abstract",
+    "next": "/learning/introduction/oop_concept/inheritance"
+  },
+  {
+    "key": "inheritance",
+    "prev": "/learning/introduction/encapsulization",
+    "next": "/learning/introduction/oop_concept/poliomorphisme"
+  },
+  {
+    "key": "poliomorphisme",
+    "prev": "/learning/introduction/inheritance",
+    "next": "/learning/data_type_and_variable/data_types/number"
+  },
+  {
+    "key": "number",
+    "prev": "/learning/introduction/oop_concept/poliomorphisme",
+    "next": "/learning/data_type_and_variable/data_types/floating_point"
+  },
+  {
+    "key": "floating_point",
+    "prev": "/learning/data_type_and_variable/data_types/number",
+    "next": "/learning/data_type_and_variable/data_types/char"
+  },
+  {
+    "key": "char",
+    "prev": "/learning/data_type_and_variable/data_types/floating_point",
+    "next": "/learning/data_type_and_variable/data_types/boolean"
+  },
+  {
+    "key": "boolean",
+    "prev": "/learning/data_type_and_variable/data_types/char",
+    "next": "/learning/data_type_and_variable/variable/declare_init"
+  },
+  {
+    "key": "declare_init",
+    "prev": "/learning/data_type_and_variable/data_types/boolean",
+    "next": "/learning/data_type_and_variable/variable/scope"
+  },
+  {
+    "key": "scope",
+    "prev": "/learning/data_type_and_variable/variable/declare_init",
+    "next": "/learning/data_type_and_variable/typecasting"
+  },
+  {
+    "key": "typecasting",
+    "prev": "/learning/data_type_and_variable/variable/scope",
+    "next": "/learning/data_type_and_variable/promote_data_type"
+  },
+  {
+    "key": "promote_data_type",
+    "prev": "/learning/data_type_and_variable/typecasting",
+    "next": "/learning/data_type_and_variable/array/single_dimension"
+  },
+  {
+    "key": "single_dimension",
+    "prev": "/learning/data_type_and_variable/promote_data_type",
+    "next": "/learning/data_type_and_variable/array/multi_dimension"
+  },
+  {
+    "key": "multi_dimension",
+    "prev": "/learning/data_type_and_variable/array/single_dimension",
+    "next": "/learning/data_type_and_variable/string"
+  },
+  {
+    "key": "string",
+    "prev": "/learning/data_type_and_variable/array/multi_dimension",
+    "next": "/learning/data_type_and_variable/java_pointer"
+  },
+  {
+    "key": "java_pointer",
+    "prev": "/learning/data_type_and_variable/string",
+    "next": "/learning/data_type_and_variable/operator/aritmatika"
+  },
+  {
+    "key": "aritmatika",
+    "prev": "/learning/data_type_and_variable/java_pointer",
+    "next": "/learning/data_type_and_variable/operator/relasional"
+  },
+  {
+    "key": "relasional",
+    "prev": "/learning/data_type_and_variable/operator/aritmatika",
+    "next": "/learning/data_type_and_variable/operator/logika"
+  },
+  {
+    "key": "logika",
+    "prev": "/learning/data_type_and_variable/operator/relasional",
+    "next": "/learning/data_type_and_variable/operator/bitwise"
+  },
+  {
+    "key": "bitwise",
+    "prev": "/learning/data_type_and_variable/operator/logika",
+    "next": "/learning/data_type_and_variable/operator/bitwise"
+  }
+]

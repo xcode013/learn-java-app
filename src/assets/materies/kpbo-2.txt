@@ -1,0 +1,13 @@
+# Prosedural Programing vs. OOP
+
+## Prosedural Programing
+
+Prosedural Programing adalah sebuah paradigma pemrograman (paradigma pemrograman bisa diartikan sebagai sebuah pendekatan dalam memecahkan masalah dengan menggunakan bahasa pemrograman tertentu) , yang penamaannya diambil dari pemrograman imperatif berdasarkan konsep pemanggilan prosedur.
+
+Pemrograman Prosedural, untuk memecah tugas pemrograman menjadi kumpulan variabel dan subrutin, Pemrograman Prosedural menggunakan prosedur untuk beroperasi secara langsung pada struktur data.
+
+## OOP (Object-Oriented Programing)
+
+Object Oriented Programming (OOP) adalah metode pemrograman yang berorientasikan kepada objek, yaitu semua data dan method didefinisikan ke dalam beberapa class atau objek-objek agar bisa saling bekerja sama dalam memecahkan masalah.
+
+Pemrograman berorientasi objek berfungsi memecah tugas pemrograman menjadi objek, yang merangkum data dan metode. Objek akan menggabungkan data dan metode bersama sehingga suatu objek akan beroperasi pada datanya sendiri.

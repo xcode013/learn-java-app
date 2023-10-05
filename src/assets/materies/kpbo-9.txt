@@ -1,0 +1,3 @@
+# Inheritance
+
+Pewarisan(Inheritance) adalah konsep dimana suatu kelas dapat mewarisi sifat-sifat dan perilaku (method) dari kelas lain yang lebih umum. Kelas yang mewarisi disebut sebagai kelas turunan( subclass ), sementara kelas yang memberikan warisan disebut sebagai kelas induk( superclass ).

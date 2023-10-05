@@ -1,0 +1,2 @@
+# Variable Scope
+Siklus Daur Hidup Variable java menganut sistem Blok Scope. Dimana kode program diluar blok program tempat variable dideklarasikan tidak akan bisa mengakses variable tersebut. Dan variable hanya bisa diakses oleh kode program yang beradalah satu blok program dengannya, atau berada diblok program dibawahnya. 

@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+/* ::-webkit-scrollbar {
+  width: 5px;
+} */
+
+* {
+  scroll-behavior: smooth;
+}
+
+h10 {
+  font-weight: bolder;
+  font-size: 50px;
+}

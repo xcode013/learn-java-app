@@ -1,0 +1,3 @@
+# Floating Point
+
+Tipe data float dan double dipakai untuk menampung angka pecahan seperti 3.14, 44.53 atau -0.09876. Sama seperti bahasa pemrograman pada umumnya, kita menggunakan tanda titik sebagai pemisah angka bulat dan pecahan, bukan tanda koma seperti yang kita pakai sehari-hari di Indonesia

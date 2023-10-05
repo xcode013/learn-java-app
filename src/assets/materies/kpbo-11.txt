@@ -1,0 +1,13 @@
+# Number 
+
+## Byte
+Byte memiliki range nilai -128 s.d 127. Tipe data ini memiliki jumlah bit 8
+
+## Short
+Short memiliki range nilai -32,768 s.d 32,767. Tipe data ini memiliki jumlah bit 16. Nilai koma dalam 32,767 bukanlah nila koma seperti dalam penggunaan keseharian kita. Nilai koma tersebut adalah titik, sedangkan bilangan berkoma dalam bahasa pemrograman dilambangkan dengan tanda titik.
+
+## Long
+Long memiliki range nilai -9,223,372,063,854,775,808 s.d 9,223,372,063,854,775,807. Tipe data ini memiliki bit 64.
+
+## Integer
+Tipe data integer adalah suatu tipe data yang mememiliki nilai bilangan bulat positif dan  juga bilangan bulat negatif dan baik bilangan bulat positif dan negatif tidak mengandung bilangan pecahan atau desimal (berkoma). Contoh dari tipe data integer :   2, -2, -100, 4, 129

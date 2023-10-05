@@ -1,0 +1,3 @@
+# Program in Java
+
+Program dalam bahasa Java dikompilasi menjadi bytecode, yaitu instruksi-instruksi dalam bentuk kode biner yang dapat dijalankan oleh mesin virtual Java (JVM). JVM bertanggung jawab untuk menjalankan bytecode ini di berbagai platform tanpa perlu mengkompilasi ulang.

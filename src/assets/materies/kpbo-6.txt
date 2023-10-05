@@ -1,0 +1,21 @@
+# Basic Syntax
+
+
+## Komentar 
+
+Komentar atau comments merupakan blok kode yang  berfungsi untuk membantu programmer mengerti maksud dari kode yang telah ditulis. Dengan komentar, kita bisa mendeskripsikan kode yang kita tulis dalam bahasa manusia yang tentu lebih manusiawi dari bahasa komputer. Komentar/blok komentar tidak akan di eksekusi didalam program
+
+
+## Blok program 
+
+Java mengizinkan kita untuk mengelompokkan satu atau lebih statemen ke dalam blok program. Dalam Java, blok program diawali dengan kurung buka “ { ” dan diakhiri dengan kurung tutup “ } ”. Blok program biasa digunakan untuk definisi kelas, method, struktur pengulangan dan pengkondisian.
+
+
+## Separator
+
+Separator digunakan untuk memisahkan antar program. Jenis  yang sering digunakan pada setiap kode program adalah semicolon (tanda titik koma) yang digunakan untuk memisahkan statemen yang satu dengan yang lainnya.
+
+
+## Kata kunci 
+
+Kata kunci adalah kata-kata yang telah didefinisikan oleh compiler dan memiliki arti dan tujuan spesifik. Java tidak mengizinkan pembuatan suatu pengenal (nama variabel, konstanta, kelas, atau method) dengan kata kunci yang ada. 

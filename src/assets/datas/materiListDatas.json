@@ -1,0 +1,202 @@
+[
+  {
+    "idm": 1,
+    "headline": "Introduction",
+    "path": "introduction",
+    "path_s": "introduction/program_in_java",
+    "subheadlines": [
+      {
+        "id": 1,
+        "subheadline": "Program in Java",
+        "path": "program_in_java",
+        "path_ss": null
+      },
+      {
+        "id": 2,
+        "subheadline": "Prosedural Programing vs. OOP",
+        "path": "prosedural_programing_vs_oop",
+        "path_ss": null
+      },
+      {
+        "id": 3,
+        "subheadline": "Instalasi JDK & IDE",
+        "path": "instalasi_jdk_ide",
+        "path_ss": null
+      },
+      {
+        "id": 4,
+        "subheadline": "Setup & Setting Classpath",
+        "path": "setup_setting_classpath",
+        "path_ss": null
+      },
+      {
+        "id": 5,
+        "subheadline": "Hello World",
+        "path": "hello_world",
+        "path_ss": null
+      },
+      {
+        "id": 6,
+        "subheadline": "Basic Syntax in Java",
+        "path": "basic_syntax",
+        "path_ss": null
+      },
+      {
+        "id": 7,
+        "subheadline": "OOP Concept",
+        "path": "oop_concept",
+        "path_ss": "oop_concept/abstract",
+        "titles": [
+          {
+            "idt": 1,
+            "title": "Abstract",
+            "path": "abstract"
+          },
+          {
+            "idt": 2,
+            "title": "Encapsulization",
+            "path": "encapsulization"
+          },
+          {
+            "idt": 3,
+            "title": "Inheritance",
+            "path": "inheritance"
+          },
+          {
+            "idt": 4,
+            "title": "Poliomorphisme",
+            "path": "poliomorphisme"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "idm": 2,
+    "headline": "Data Type & Variable",
+    "path": "data_type_and_variable",
+    "path_s": "data_type_and_variable/data_types/number",
+    "subheadlines": [
+      {
+        "id": 8,
+        "subheadline": "Data Types",
+        "path": "data_types",
+        "path_ss": "data_types/number",
+        "titles": [
+          {
+            "idt": 5,
+            "title": "Numbers",
+            "path": "number"
+          },
+          {
+            "idt": 6,
+            "title": "Floating Point",
+            "path": "floating_point"
+          },
+          {
+            "idt": 7,
+            "title": "Char",
+            "path": "char"
+          },
+          {
+            "idt": 8,
+            "title": "Boolean",
+            "path": "boolean"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "subheadline": "Variable",
+        "path": "variable",
+        "path_ss": "variable/declare_init",
+        "titles": [
+          {
+            "idt": 9,
+            "title": "Declare & Init Variable",
+            "path": "declare_init"
+          },
+          {
+            "idt": 10,
+            "title": "Variable Scope",
+            "path": "scope"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "subheadline": "Typecasting",
+        "path": "typecasting",
+        "path_ss": null
+      },
+      {
+        "id": 11,
+        "subheadline": "Promote Data Type",
+        "path": "promote_data_type",
+        "path_ss": null
+      },
+      {
+        "id": 12,
+        "subheadline": "Array",
+        "path": "array",
+        "path_ss": "array/single_dimension",
+        "titles": [
+          {
+            "idt": 11,
+            "title": "Single Dimension",
+            "path": "single_dimension"
+          },
+          {
+            "idt": 12,
+            "title": "Multi Dimension",
+            "path": "multi_dimension"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "subheadline": "String",
+        "path": "string",
+        "path_ss": null
+      },
+      {
+        "id": 14,
+        "subheadline": "Java Pointer",
+        "path": "java_pointer",
+        "path_ss": null
+      }
+    ]
+  },
+  {
+    "idm": 3,
+    "headline": "Operator",
+    "path": "operator",
+    "path_s": "operator/aritmatika",
+    "subheadlines": [
+      {
+        "id": 15,
+        "subheadline": "Aritmatika",
+        "path": "aritmatika",
+        "path_ss": null
+      },
+      {
+        "id": 16,
+        "subheadline": "Relasional",
+        "path": "relasional",
+        "path_ss": null
+      },
+      {
+        "id": 17,
+        "subheadline": "Logika",
+        "path": "logika",
+        "path_ss": null
+      },
+      {
+        "id": 18,
+        "subheadline": "Bitwise",
+        "path": "bitwise",
+        "path_ss": null
+      }
+    ]
+  }
+]

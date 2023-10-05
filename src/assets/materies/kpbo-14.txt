@@ -1,0 +1,3 @@
+# Boolean
+
+Boolean adalah sebuah tipe data yang memang hanya memiliki dua nilai, yaitu benar atau salah (true or false).

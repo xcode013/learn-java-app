@@ -1,0 +1,2 @@
+# Char
+Tipe data karakter/char pada java sering kita lihat penulisannya char pada java.Tipe data char termasuk dalam tipe data primitif.Tipe data char ini merupakan tipe data yang diambil dari /char Unicode(/char tunggal) contohnya bisa huruf,angka,tanda bacaan,ataupun bisa juga untuk /char special misalnya nama latin.Dalam penulisannya char juga membutuhkan single quote (‘ ‘) tanpa tanda kurung
