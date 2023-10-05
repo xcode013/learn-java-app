@@ -1,5 +1,5 @@
 import LayoutGeneral from '../layouts/LayoutGeneral';
-import bg from '../../assets/imgs/img-1.jpg';
+import bg from '../../assets/imgs/Cool-desktop-backgrounds.jpg';
 import {Link} from 'react-router-dom';
 
 function Home() {
