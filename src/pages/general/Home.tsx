@@ -25,7 +25,7 @@ function Home() {
 
           <Link
             className="bg-sky-500 text-white px-4 py-1 hover:bg-sky-700 transition duration-300 rounded-full mt-5"
-            to={'/learning'}>
+            to={'/learning/introduction/program_in_java'}>
             Learn Now
           </Link>
         </main>

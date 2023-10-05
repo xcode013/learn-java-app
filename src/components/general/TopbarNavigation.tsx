@@ -13,7 +13,7 @@ function TopbarNavigation() {
         <DarkmodeBtn />
       </aside>
       <main className="center h-10 aspect-square cursor-pointer">
-        <Link to={'www.youtube.com'}>
+        <Link to={'/'}>
           <img src={logoSMKPurwosari} alt="Logo SMK Negeri Purwosari" />
         </Link>
       </main>
@@ -54,6 +54,6 @@ export default TopbarNavigation;
 
 const linkdatas = [
   {content: 'home', path: '/'},
-  {content: 'learning', path: '/learning'},
+  {content: 'learning', path: '/learning/introduction/program_in_java'},
   {content: 'about us', path: '/aboutus'},
 ];
